@@ -79,6 +79,14 @@ By leveraging Power BI's visualization and data modeling capabilities, this proj
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Overview](dashboard.png)
+
+![MTD Report](MTD_report.png)
+
+![Same Period Last Year](Same_Period_Last_Year.png)
+
 ## 🔍 Business Insights
 
 - Identified top-performing mobile models and brands.
