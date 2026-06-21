@@ -81,7 +81,7 @@ By leveraging Power BI's visualization and data modeling capabilities, this proj
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](Dashboard.png)
 
 ![MTD Report](MTD_report.png)
 
