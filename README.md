@@ -117,7 +117,7 @@ Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
 ### Connect with Me
 
-- LinkedIn: www.linkedin.com/in/abhishekkumar-dataanalyst
+- LinkedIn: [www.linkedin.com/in/abhishekkumar-dataanalyst](https://www.linkedin.com/in/imabbhishekkkkkkkk/)
 - GitHub: github.com/abhishek
 
 ---
