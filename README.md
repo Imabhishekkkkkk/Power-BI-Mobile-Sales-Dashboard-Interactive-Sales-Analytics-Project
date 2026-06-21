@@ -83,11 +83,11 @@ By leveraging Power BI's visualization and data modeling capabilities, this proj
 
 ![Dashboard Overview](Dashboard.png)
 
-![MTD Report](MTD_report.png)
+![MTD Report](MTD report.png)
 
-![Same Period Last Year](Same_Period_Last_Year.png)
+![Same Period Last Year](Same Period Last Year.png)
 
-## 🔍 Business Insights
+## 🔍 Business Insight 
 
 - Identified top-performing mobile models and brands.
 - Analyzed customer purchasing behavior across payment methods.
