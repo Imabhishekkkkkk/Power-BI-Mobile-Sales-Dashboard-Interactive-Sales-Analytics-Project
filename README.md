@@ -89,19 +89,6 @@ By leveraging Power BI's visualization and data modeling capabilities, this proj
 
 ---
 
-## 📸 Dashboard Preview
-
-### Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
-
-### MTD Report
-![MTD Report](images/mtd_report.png)
-
-### Same Period Last Year Analysis
-![SPLY Report](images/sply_report.png)
-
----
-
 ## 🚀 Learning Outcomes
 
 This project enhanced my understanding of:
